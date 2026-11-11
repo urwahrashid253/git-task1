@@ -1,1 +1,1 @@
-Feature 1 line
+Conflict line from branch
